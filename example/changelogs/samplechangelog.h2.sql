@@ -36,5 +36,5 @@ alter table company add column country varchar(2)
 --rollback DROP TABLE yourname;
 CREATE TABLE davide (
 id int primary key,
-name varchar(50) not null,
+name varchar(50) not null
 )
